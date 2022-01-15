@@ -7,7 +7,7 @@
 - 🚧 2022 Goal: Contribute something cool to Open Source projects
 - 📚 2023 Goal: Make my own tech company.
 - 🗯 Ask me about ReactJS, MERN Stack & WordPress. I am Happy to Help!
-- 📫 How to reach me: mahabub@gmail.com
+- 📫 How to reach me: mahabub@kalpas.in / mahabubsany1@gmail.com
 
 ### Get in Touch:
 
