@@ -2,12 +2,11 @@
 
 ## I'm a Passionate Web Developer 
 
-- 👩‍💻 I'm currently working on something cool! 
-- 💻 I'm learning MERN Stack
-- 🚧 2022 Goal: Contribute something cool to Open Source projects
-- 📚 2023 Goal: Make my own tech company.
+- 👩‍💻 Start working on TypeScript! 
+- 💻 I'm exploring React and Node more deeply
+- 🚧 2022 Goal: Contribute something cool to Open Source projects.
 - 🗯 Ask me about ReactJS, MERN Stack & WordPress. I am Happy to Help!
-- 📫 How to reach me: mahabub@kalpas.in / mahabubsany1@gmail.com
+- 📫 How to reach me: mahabubsany1@gmail.com
 
 ### Get in Touch:
 
