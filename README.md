@@ -6,7 +6,7 @@
 - 👤 Spent over 2.5+ years diving into the convergence of Front-end and MERN stack within the tech domain.
 - ✏️ Assisted over 1000+ students, tackling their MERN-related issues while instructing.
 - 🪴 Supported 100+ developers in completing courses and landing job opportunities.
-- 🌎 Worked at Tilleli Inc., Kalpas Innovation Private Ltd, Trayn Consulting Inc., Programming Hero, and Fiverr.
+- 🌎 Worked for Tilleli Inc., Kalpas Innovation Private Ltd, Trayn Consulting Inc., Programming Hero, and Fiverr.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning CloudEnginnering
 - 👯 I’m looking to collaborate on ...
