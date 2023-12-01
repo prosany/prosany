@@ -54,10 +54,10 @@
     <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/wordpress.svg"/>
 </a>
 <a href="https://github.com/prosany">
-    <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/aws-2.svg"/>
+    <img align="left" alt="html" width="28px" title="AWS" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/aws-2.svg"/>
 </a>
 <a href="https://github.com/prosany">
-    <img align="left" alt="html" width="28px" title="DigitalOcean" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/digitalocean-logo.svg"/>
+    <img align="left" alt="html" width="32px" title="DigitalOcean" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/digitalocean-logo.svg"/>
 </a>
 <a href="https://github.com/prosany">
     <img align="left" alt="html" width="20px" title="Jenkins" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/jenkins-1.svg"/>
