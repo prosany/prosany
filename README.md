@@ -8,6 +8,19 @@
 - 🪴 Supported 100+ developers in completing courses and landing job opportunities.
 - 🌎 Worked at Tilleli Inc., Kalpas Innovation Private Ltd, Tryan CA, Programming Hero, and Fiverr.
 
+<br />
+<br />
+<br />
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning CloudEnginnering
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about MERN, Next.js - I am Happy to Help!
+- 📫 How to reach me: mahabubsany1@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 ### Get in Touch:
 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahabub.sunny.904)
@@ -44,35 +57,20 @@
     <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/aws-2.svg"/>
 </a>
 <a href="https://github.com/prosany">
-    <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/digitalocean-logo.svg"/>
+    <img align="left" alt="html" width="28px" title="DigitalOcean" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/digitalocean-logo.svg"/>
 </a>
 <a href="https://github.com/prosany">
-    <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/jenkins-1.svg"/>
+    <img align="left" alt="html" width="20px" title="Jenkins" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/jenkins-1.svg"/>
 </a>
 <a href="https://github.com/prosany">
-    <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/nginx-1.svg"/>
+    <img align="left" alt="html" width="25px" title="Nginx" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/nginx-1.svg"/>
 </a>
-
-<br />
-<br />
-<br />
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning CloudEnginnering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about MERN, Next.js - I am Happy to Help!
-- 📫 How to reach me: mahabubsany1@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <br />
 <br />
 <br />
 <img width="400px" alt="Mahabub Sany Github Stats"  src="https://github-readme-stats.vercel.app/api?username=prosany&show_icons=true"/>
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&layout=compact)](https://github.com/prosany)
 
 
 [sany_linkedIn]: https://www.linkedin.com/in/mahabubsany
