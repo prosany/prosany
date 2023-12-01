@@ -40,6 +40,18 @@
 <a href="https://github.com/prosany">
     <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/wordpress.svg"/>
 </a>
+<a href="https://github.com/prosany">
+    <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/aws-2.svg"/>
+</a>
+<a href="https://github.com/prosany">
+    <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/digitalocean-logo.svg"/>
+</a>
+<a href="https://github.com/prosany">
+    <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/jenkins-1.svg"/>
+</a>
+<a href="https://github.com/prosany">
+    <img align="left" alt="html" width="25px" title="WordPress" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/nginx-1.svg"/>
+</a>
 
 <br />
 <br />
@@ -53,6 +65,14 @@
 - 📫 How to reach me: mahabubsany1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<br />
+<br />
+<br />
+<img width="400px" alt="Mahabub Sany Github Stats"  src="https://github-readme-stats.vercel.app/api?username=prosany&show_icons=true"/>
+
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosany&layout=compact)](https://github.com/prosany)
 
 
 [sany_linkedIn]: https://www.linkedin.com/in/mahabubsany
