@@ -19,6 +19,7 @@
 ### Get in Touch:
 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahabub.sunny.904)
+[![LinkedIn Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahabubsany)
 
 ### Languages and Tools:
 <a href="https://github.com/prosany">
@@ -60,9 +61,3 @@
 <a href="https://github.com/prosany">
     <img align="left" alt="html" width="25px" title="Nginx" src= "https://raw.githubusercontent.com/prosany/prosany/main/images/nginx-1.svg"/>
 </a>
-
-<br />
-
-
-
-[sany_linkedIn]: https://www.linkedin.com/in/mahabubsany
