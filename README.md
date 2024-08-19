@@ -62,9 +62,6 @@
 </a>
 
 <br />
-<br />
-<br />
-<img width="400px" alt="Mahabub Sany Github Stats"  src="https://github-readme-stats.vercel.app/api?username=prosany&show_icons=true"/>
 
 
 
